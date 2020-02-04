@@ -1,0 +1,9 @@
+git init
+git status
+git status -s
+git add <file>
+git commit -m 'xxxx'
+git config --list
+git remote add origin <url>
+git clone <url>
+git remote 
